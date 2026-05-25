@@ -5,7 +5,7 @@ Companion repo for the [GenAI × 3D Hybrid Pipeline R&D](https://www.artstation.
 ## Contents
 
 - [`ATTRIBUTION.md`](./ATTRIBUTION.md) — Photographer credits for the v1 training dataset
-- *Coming soon*: caption templates, ComfyUI evaluation workflow, v1 LoRA file
+- **v1 LoRA weights**: Available on [Civitai](https://civitai.com/models/2650756/pallas-cat-otocolobus-manul-wildlife-photo-style)
 
 ## Related writing
 
